@@ -278,7 +278,7 @@ export default function LandingPage({
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-20 items-center">
             <div className="relative flex items-center justify-center">
               <img 
-                src="https://www.phoenix.com.ph/wp-content/uploads/2026/04/Group-59.png" 
+                src="https://res.cloudinary.com/dx20khqe5/image/upload/v1777023641/631356312_10162799760103163_1721113509013160733_n_z625pe.jpg" 
                 alt="Senior Citizen Services Illustration" 
                 className="w-full h-auto max-w-[540px] mix-blend-multiply" 
                 referrerPolicy="no-referrer" 
